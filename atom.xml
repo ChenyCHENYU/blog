@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cheny</title>
+  
+  <subtitle>Cheny的小站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.tzagileteam.com/"/>
+  <updated>2022-12-14T12:36:41.250Z</updated>
+  <id>https://www.tzagileteam.com/</id>
+  
+  <author>
+    <name>Cheny</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>瀑布流使用虚拟列表性能优化</title>
+    <link href="https://www.tzagileteam.com/waterfalls_and_visiblelist/"/>
+    <id>https://www.tzagileteam.com/waterfalls_and_visiblelist/</id>
+    <published>2022-11-14T04:05:46.000Z</published>
+    <updated>2022-12-14T12:36:41.250Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;瀑布流算是比较常见的布局了，一个般常见纵向瀑布流的交互，当我们滚动到底的时候加载下一页的数据追加到上去。因为一次加载的数据量不是很多，页面操作是也不会有太大的性能消耗。但是如果当你一直往下滚动加载，加载几十页的时候，就会开始感觉不那么流畅的，这是因为虽然每次操作的很少，但是页面的 DOM 越来越多，内存占用也会增大，而且发生重排重绘时候浏览器计算量耗时也会增大，就导致了慢慢不能那么流畅了。这个时候可以选择结合虚拟列表方式使用，虚拟列表本身就是用来解决超长列表时的处理方案。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="JavaScript" scheme="https://www.tzagileteam.com/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>做了个壁纸小程序😀</title>
+    <link href="https://www.tzagileteam.com/blgz/"/>
+    <id>https://www.tzagileteam.com/blgz/</id>
+    <published>2022-10-18T07:08:29.000Z</published>
+    <updated>2022-12-14T12:36:41.236Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;各种壁纸app，壁纸小程序打开全是各种广告，太影响使用体验，自己整了个壁纸小程序，简单无广告🤣&lt;/p&gt;
+&lt;p&gt;附上小程序码：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://img.lkxin.cn/tu/2022/10/18/634e537320ee3.jpg&quot; alt=&quot;xcx.jpg&quot;&gt;&lt;em&gt;壁了个纸&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="创造类" scheme="https://www.tzagileteam.com/categories/%E5%88%9B%E9%80%A0%E7%B1%BB/"/>
+    
+    
+      <category term="小程序" scheme="https://www.tzagileteam.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pjax 下动态加载插件方案</title>
+    <link href="https://www.tzagileteam.com/pjax_dynamic_plugins/"/>
+    <id>https://www.tzagileteam.com/pjax_dynamic_plugins/</id>
+    <published>2022-09-28T08:35:09.000Z</published>
+    <updated>2022-12-14T12:36:41.244Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在纯静态网站里，有时候会动态更新某个区域往会选择 Pjax（swup、barba.js）去处理，他们都是使用 ajax 和 pushState 通过真正的永久链接，页面标题和后退按钮提供快速浏览体验。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Pjax" scheme="https://www.tzagileteam.com/tags/Pjax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-theme-async 文档上线了🤣</title>
+    <link href="https://www.tzagileteam.com/hexo-theme-async/"/>
+    <id>https://www.tzagileteam.com/hexo-theme-async/</id>
+    <published>2022-09-07T07:29:25.000Z</published>
+    <updated>2022-12-14T12:36:41.241Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://img.lkxin.cn/tu/2022/09/22/632c1767d795b.png&quot; alt=&quot;demo&quot;&gt;&lt;em&gt;预览图&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;时隔几个月，拖拖拉拉的终于整理好了一份使用指南。下次终于可以甩个文档连接了🤣，再也不用一个个解释了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="hexo" scheme="https://www.tzagileteam.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云开发又又又涨价了</title>
+    <link href="https://www.tzagileteam.com/txgdx/"/>
+    <id>https://www.tzagileteam.com/txgdx/</id>
+    <published>2022-07-13T08:44:24.000Z</published>
+    <updated>2022-12-14T12:36:41.245Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前一波搞没了免费额度，这次直接要回收以前开通免费版的资源了。搞成基础套餐+按量计费模式，直接最低39.9块一个月。用不起了，腾讯是真TM的狗。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于重写评论插件这件事</title>
+    <link href="https://www.tzagileteam.com/cloudbase_comment_two/"/>
+    <id>https://www.tzagileteam.com/cloudbase_comment_two/</id>
+    <published>2022-02-11T02:28:39.000Z</published>
+    <updated>2022-12-14T12:36:41.237Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为以前使用的评论插件存在很多 bug 和漏洞，但是也没啥人用，一直没有去修改，最近空闲时间比较多，所以准备对之前插件进行重构一番。原评论插件是使用原生 JS 编写 WebComponents 组件，感觉结构维护起来挺费力的(自己太菜)，决定使用 Vue3 构建 WebComponents 。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="node" scheme="https://www.tzagileteam.com/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Vue3 构建 Web Components</title>
+    <link href="https://www.tzagileteam.com/vue_web_components/"/>
+    <id>https://www.tzagileteam.com/vue_web_components/</id>
+    <published>2021-11-21T02:17:09.000Z</published>
+    <updated>2022-12-14T12:36:41.248Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有时候想写一个无关框架组件，又不想用原生或者 Jquery 那套去写，而且还要避免样式冲突，用 Web Components 去做刚觉就挺合适的。但是现在 Web Components 使用起来还是不够灵活，很多地方还是不太方便的，如果能和 MVVM 搭配使用就好了。早在之前 Angular 就支持将组件构建成 Web Components，&lt;strong&gt;Vue3 3.2+&lt;/strong&gt; 开始终于支持将组建构建成 Web Components 了。正好最近想重构下评论插件，于是上手试了试。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.tzagileteam.com/tags/vue/"/>
+    
+      <category term="WebComponents" scheme="https://www.tzagileteam.com/tags/WebComponents/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>续费域名了</title>
+    <link href="https://www.tzagileteam.com/renew_domains/"/>
+    <id>https://www.tzagileteam.com/renew_domains/</id>
+    <published>2021-11-09T11:29:24.000Z</published>
+    <updated>2022-12-14T12:36:41.245Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;八月份的时候就看到域名要涨价了，想着续费来自，忙了一阵忘记这茬了。再想起了就现在了，血亏了一波。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>朱雀云丹 · 风采铃</title>
+    <link href="https://www.tzagileteam.com/video_yztx/"/>
+    <id>https://www.tzagileteam.com/video_yztx/</id>
+    <published>2021-11-01T10:37:08.000Z</published>
+    <updated>2022-12-14T12:36:41.246Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一壶生死曾入喉，醉梦黄泉九千宵。转眼形骸具付灭，悲欢两散天涯老。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="分享类" scheme="https://www.tzagileteam.com/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+      <category term="video" scheme="https://www.tzagileteam.com/tags/video/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数组转树形结构</title>
+    <link href="https://www.tzagileteam.com/array_to_tree/"/>
+    <id>https://www.tzagileteam.com/array_to_tree/</id>
+    <published>2021-10-28T12:08:29.000Z</published>
+    <updated>2022-12-14T12:36:41.236Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;数组转树形结构这种情况还是很常见的，有时候后端就只给你一个数组，需要前端自己处理。一般情况下一个递归就搞定了，但是数据量很多的时候就有点 hot 不住了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="JavaScript" scheme="https://www.tzagileteam.com/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 GitHub Actions + Github Pages 实现博客自动部署</title>
+    <link href="https://www.tzagileteam.com/github_action/"/>
+    <id>https://www.tzagileteam.com/github_action/</id>
+    <published>2021-09-26T01:08:34.000Z</published>
+    <updated>2022-12-14T12:36:41.240Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看看官方对GitHub Actions的介绍: GitHub Actions 帮助您自动完成软件开发周期内的任务。 GitHub Actions 是事件驱动的，意味着您可以在指定事件发生后运行一系列命令。 例如，每次有人为仓库创建拉取请求时，您都可以自动运行命令来执行软件测试脚本。&lt;/p&gt;
+&lt;p&gt;简单的说就是，GitHub 把持续集成系列操作步骤叫做 actions。比如抓取代码、运行测试、登录远程服务器，发布到第三方服务等等。可以看看官方的介绍，对&lt;a href=&quot;https://docs.github.com/cn/actions/learn-github-actions/introduction-to-github-actions&quot;&gt;GitHub Actions&lt;/a&gt;快速了解&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="github" scheme="https://www.tzagileteam.com/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-theme-text 使用说明</title>
+    <link href="https://www.tzagileteam.com/hexo_theme_text/"/>
+    <id>https://www.tzagileteam.com/hexo_theme_text/</id>
+    <published>2021-09-25T15:13:34.000Z</published>
+    <updated>2022-12-15T08:02:12.621Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这个主题诞生的原因主要是因为闲的，所以就自己动手写了这个相对比较清爽风格的主题。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="创作类" scheme="https://www.tzagileteam.com/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+    
+    
+      <category term="hexo" scheme="https://www.tzagileteam.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打造自己的Vue组件文档生成工具</title>
+    <link href="https://www.tzagileteam.com/generate_vue_docs/"/>
+    <id>https://www.tzagileteam.com/generate_vue_docs/</id>
+    <published>2021-07-29T02:44:00.000Z</published>
+    <updated>2022-12-14T12:36:41.239Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;程序员最讨厌的两件事情，第一种是写文档，另一种是别人没有写文档。有没有直接根据 vue 组件生成文档的呢？当然是有的的。但第三方使用起来不一定能和现有项目结合使用，往往需要额外的注释用来标记提取信息。
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.tzagileteam.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VS Code 插件开发指北 (二)</title>
+    <link href="https://www.tzagileteam.com/vscode_extension_two/"/>
+    <id>https://www.tzagileteam.com/vscode_extension_two/</id>
+    <published>2021-06-17T12:19:04.000Z</published>
+    <updated>2022-12-14T12:36:41.246Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接着上面的继续介绍一些常用的 VS Code 插件的配置和 API。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vscode" scheme="https://www.tzagileteam.com/tags/vscode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VS Code 插件开发指北 (一)</title>
+    <link href="https://www.tzagileteam.com/vscode_extension/"/>
+    <id>https://www.tzagileteam.com/vscode_extension/</id>
+    <published>2021-06-12T15:20:59.000Z</published>
+    <updated>2022-12-14T12:36:41.246Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近闲来无事，给公司框架做了开发代码片段提示和一些常用工具整合的插，在这里记录一下踩过的坑和一些常用的基本功能示例。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vscode" scheme="https://www.tzagileteam.com/tags/vscode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter 中的动画</title>
+    <link href="https://www.tzagileteam.com/flutter_animation/"/>
+    <id>https://www.tzagileteam.com/flutter_animation/</id>
+    <published>2021-04-28T07:04:50.000Z</published>
+    <updated>2022-12-14T12:36:41.239Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Flutter 中动画的创建有很多种， 需要根据具体的需求选择不同的动画。如果只是简单的布局等的动画直接使用最简单的隐式动画就可以了，因为隐式动画是由框架控制的，所以仅仅只需要更改变需要变化属性就可以了。如果你想自己控制动画的变换则需要使用显示动画，如果需要控制一些列动画组合时使用交织动画去控制。如果内置的满足不了需求的时候，还可以结合画布自绘动画。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Flutter" scheme="https://www.tzagileteam.com/tags/Flutter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB基础篇（一）</title>
+    <link href="https://www.tzagileteam.com/mongodb_sql/"/>
+    <id>https://www.tzagileteam.com/mongodb_sql/</id>
+    <published>2021-04-13T12:28:49.000Z</published>
+    <updated>2022-12-14T12:36:41.243Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;MongoDB 是一个介于关系数据库和非关系数据库之间的产品。面向文档的 NoSQL 的数据库，存储结构也非常自由，是类似 json 的 bson 格式，因此可以存储比较复杂的数据类型。其强大的查询语言几乎支持绝大部分关系数据的的查询的功能。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="MongoDB" scheme="https://www.tzagileteam.com/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue 中的 mixin,component,render,hoc</title>
+    <link href="https://www.tzagileteam.com/vue_hoc/"/>
+    <id>https://www.tzagileteam.com/vue_hoc/</id>
+    <published>2021-03-02T12:26:25.000Z</published>
+    <updated>2022-12-14T12:36:41.247Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在项目中，一般我们经常会基于一套现有组件库进行快速开发，但是现实中往往需要对组件库进行定制化改造二次封装&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.tzagileteam.com/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter 常用小部件(一)</title>
+    <link href="https://www.tzagileteam.com/flutter_basic_widget/"/>
+    <id>https://www.tzagileteam.com/flutter_basic_widget/</id>
+    <published>2021-01-08T14:23:18.000Z</published>
+    <updated>2022-12-14T12:36:41.239Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Flutter 中所有的UI界面都是widget构建的。widget用来描述元素配置数据,然后会被渲染成对应UI界面。 当widget的状态修改时, 它会重新渲染UI。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Flutter" scheme="https://www.tzagileteam.com/tags/Flutter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>keep-alive 与 router-view</title>
+    <link href="https://www.tzagileteam.com/vue_keep_alive/"/>
+    <id>https://www.tzagileteam.com/vue_keep_alive/</id>
+    <published>2020-12-07T12:07:05.000Z</published>
+    <updated>2022-12-14T12:36:41.247Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;keep-alive 用于缓存不活动的组件实例，router-view 一个 functional 组件，渲染路径匹配到的视图组件。这里对两者结合使用时遇到几种情况做个简单记录&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.tzagileteam.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.tzagileteam.com/tags/vue/"/>
+    
+  </entry>
+  
+</feed>
