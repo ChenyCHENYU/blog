@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title></title>
   
-  <subtitle>Cheny的小站</subtitle>
+  <subtitle>CHENY的小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yangchenyu.com/"/>
@@ -10,7 +10,7 @@
   <id>https://www.yangchenyu.com/</id>
   
   <author>
-    <name>Cheny</name>
+    <name>CHENY</name>
     
   </author>
   
