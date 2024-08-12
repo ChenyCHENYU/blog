@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yangchenyu.com/"/>
-  <updated>2023-08-15T07:59:54.317Z</updated>
+  <updated>2024-08-12T06:11:11.986Z</updated>
   <id>https://www.yangchenyu.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>脚手架的开发（三）</title>
-    <link href="https://www.yangchenyu.com/cli_ui/"/>
-    <id>https://www.yangchenyu.com/cli_ui/</id>
+    <link href="https://www.yangchenyu.com/scaffolding/cli_ui/"/>
+    <id>https://www.yangchenyu.com/scaffolding/cli_ui/</id>
     <published>2023-06-16T09:11:36.000Z</published>
-    <updated>2023-08-15T07:59:54.317Z</updated>
+    <updated>2024-08-12T06:11:11.986Z</updated>
     
     <summary type="html">
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>脚手架的开发（二）</title>
-    <link href="https://www.yangchenyu.com/cli_setup,/"/>
-    <id>https://www.yangchenyu.com/cli_setup,/</id>
+    <link href="https://www.yangchenyu.com/scaffolding/cli_setup,/"/>
+    <id>https://www.yangchenyu.com/scaffolding/cli_setup,/</id>
     <published>2023-03-22T07:21:41.000Z</published>
     <updated>2023-08-09T06:35:28.783Z</updated>
     
@@ -72,10 +72,10 @@
   
   <entry>
     <title>脚手架的开发（一）</title>
-    <link href="https://www.yangchenyu.com/cli_create/"/>
-    <id>https://www.yangchenyu.com/cli_create/</id>
+    <link href="https://www.yangchenyu.com/scaffolding/cli_create/"/>
+    <id>https://www.yangchenyu.com/scaffolding/cli_create/</id>
     <published>2023-03-22T02:11:39.000Z</published>
-    <updated>2024-02-05T01:19:32.109Z</updated>
+    <updated>2024-08-12T04:22:47.806Z</updated>
     
     <summary type="html">
     
@@ -99,8 +99,8 @@
   
   <entry>
     <title>了解前端脚手架</title>
-    <link href="https://www.yangchenyu.com/cli/"/>
-    <id>https://www.yangchenyu.com/cli/</id>
+    <link href="https://www.yangchenyu.com/scaffolding/cli/"/>
+    <id>https://www.yangchenyu.com/scaffolding/cli/</id>
     <published>2023-03-21T15:50:39.000Z</published>
     <updated>2023-06-09T08:25:14.001Z</updated>
     
@@ -127,8 +127,8 @@
   
   <entry>
     <title>多媒体工具</title>
-    <link href="https://www.yangchenyu.com/media/"/>
-    <id>https://www.yangchenyu.com/media/</id>
+    <link href="https://www.yangchenyu.com/share/media/"/>
+    <id>https://www.yangchenyu.com/share/media/</id>
     <published>2023-03-20T01:12:36.000Z</published>
     <updated>2023-06-09T08:25:14.007Z</updated>
     
@@ -155,8 +155,8 @@
   
   <entry>
     <title>程序员作息表</title>
-    <link href="https://www.yangchenyu.com/schedule/"/>
-    <id>https://www.yangchenyu.com/schedule/</id>
+    <link href="https://www.yangchenyu.com/share/schedule/"/>
+    <id>https://www.yangchenyu.com/share/schedule/</id>
     <published>2023-03-20T00:52:08.000Z</published>
     <updated>2023-06-09T08:25:14.008Z</updated>
     
@@ -186,8 +186,8 @@
   
   <entry>
     <title>基于 Vue3、Typescript、Vite3、Element-plus 构建通用后台</title>
-    <link href="https://www.yangchenyu.com/admin_template/"/>
-    <id>https://www.yangchenyu.com/admin_template/</id>
+    <link href="https://www.yangchenyu.com/creation/admin_template/"/>
+    <id>https://www.yangchenyu.com/creation/admin_template/</id>
     <published>2022-11-15T02:16:09.000Z</published>
     <updated>2023-06-09T08:25:13.999Z</updated>
     
@@ -216,8 +216,8 @@
   
   <entry>
     <title>瀑布流使用虚拟列表性能优化</title>
-    <link href="https://www.yangchenyu.com/waterfalls_and_visiblelist/"/>
-    <id>https://www.yangchenyu.com/waterfalls_and_visiblelist/</id>
+    <link href="https://www.yangchenyu.com/record/waterfalls_and_visiblelist/"/>
+    <id>https://www.yangchenyu.com/record/waterfalls_and_visiblelist/</id>
     <published>2022-11-14T04:05:46.000Z</published>
     <updated>2023-06-09T08:25:14.011Z</updated>
     
@@ -237,8 +237,8 @@
   
   <entry>
     <title>Pjax 下动态加载插件方案</title>
-    <link href="https://www.yangchenyu.com/pjax_dynamic_plugins/"/>
-    <id>https://www.yangchenyu.com/pjax_dynamic_plugins/</id>
+    <link href="https://www.yangchenyu.com/record/pjax_dynamic_plugins/"/>
+    <id>https://www.yangchenyu.com/record/pjax_dynamic_plugins/</id>
     <published>2022-09-28T08:35:09.000Z</published>
     <updated>2023-06-09T08:25:14.008Z</updated>
     
@@ -258,8 +258,8 @@
   
   <entry>
     <title>项目上线部署发布流程</title>
-    <link href="https://www.yangchenyu.com/deployment/"/>
-    <id>https://www.yangchenyu.com/deployment/</id>
+    <link href="https://www.yangchenyu.com/manage/deployment/"/>
+    <id>https://www.yangchenyu.com/manage/deployment/</id>
     <published>2022-03-20T02:16:12.000Z</published>
     <updated>2023-06-09T08:25:14.003Z</updated>
     
@@ -279,8 +279,8 @@
   
   <entry>
     <title>关于重写评论插件这件事</title>
-    <link href="https://www.yangchenyu.com/cloudbase_comment_two/"/>
-    <id>https://www.yangchenyu.com/cloudbase_comment_two/</id>
+    <link href="https://www.yangchenyu.com/record/cloudbase_comment_two/"/>
+    <id>https://www.yangchenyu.com/record/cloudbase_comment_two/</id>
     <published>2022-02-11T02:28:39.000Z</published>
     <updated>2023-06-09T08:25:14.003Z</updated>
     
@@ -300,8 +300,8 @@
   
   <entry>
     <title>使用 Vue3 构建 Web Components</title>
-    <link href="https://www.yangchenyu.com/vue_web_components/"/>
-    <id>https://www.yangchenyu.com/vue_web_components/</id>
+    <link href="https://www.yangchenyu.com/record/vue_web_components/"/>
+    <id>https://www.yangchenyu.com/record/vue_web_components/</id>
     <published>2021-11-21T02:17:09.000Z</published>
     <updated>2023-06-09T08:25:14.011Z</updated>
     
@@ -323,8 +323,8 @@
   
   <entry>
     <title>朱雀云丹 · 风采铃</title>
-    <link href="https://www.yangchenyu.com/video_yztx/"/>
-    <id>https://www.yangchenyu.com/video_yztx/</id>
+    <link href="https://www.yangchenyu.com/share/video_yztx/"/>
+    <id>https://www.yangchenyu.com/share/video_yztx/</id>
     <published>2021-11-01T10:37:08.000Z</published>
     <updated>2023-06-09T08:25:14.009Z</updated>
     
@@ -344,8 +344,8 @@
   
   <entry>
     <title>前端数组转树形结构</title>
-    <link href="https://www.yangchenyu.com/array_to_tree/"/>
-    <id>https://www.yangchenyu.com/array_to_tree/</id>
+    <link href="https://www.yangchenyu.com/record/array_to_tree/"/>
+    <id>https://www.yangchenyu.com/record/array_to_tree/</id>
     <published>2021-10-28T12:08:29.000Z</published>
     <updated>2023-06-09T08:25:14.001Z</updated>
     
@@ -365,8 +365,8 @@
   
   <entry>
     <title>利用 GitHub Actions + Github Pages 实现博客自动部署</title>
-    <link href="https://www.yangchenyu.com/github_action/"/>
-    <id>https://www.yangchenyu.com/github_action/</id>
+    <link href="https://www.yangchenyu.com/record/github_action/"/>
+    <id>https://www.yangchenyu.com/record/github_action/</id>
     <published>2021-09-26T01:08:34.000Z</published>
     <updated>2023-06-09T08:25:14.005Z</updated>
     
@@ -387,8 +387,8 @@
   
   <entry>
     <title>编码七宗罪与技术债务</title>
-    <link href="https://www.yangchenyu.com/debt/"/>
-    <id>https://www.yangchenyu.com/debt/</id>
+    <link href="https://www.yangchenyu.com/record/debt/"/>
+    <id>https://www.yangchenyu.com/record/debt/</id>
     <published>2021-08-31T01:53:20.000Z</published>
     <updated>2023-06-09T08:25:14.003Z</updated>
     
@@ -415,8 +415,8 @@
   
   <entry>
     <title>打造自己的Vue组件文档生成工具</title>
-    <link href="https://www.yangchenyu.com/generate_vue_docs/"/>
-    <id>https://www.yangchenyu.com/generate_vue_docs/</id>
+    <link href="https://www.yangchenyu.com/reprinted/generate_vue_docs/"/>
+    <id>https://www.yangchenyu.com/reprinted/generate_vue_docs/</id>
     <published>2021-07-29T02:44:00.000Z</published>
     <updated>2023-06-09T08:25:14.005Z</updated>
     
@@ -436,8 +436,8 @@
   
   <entry>
     <title>前端的设计模式</title>
-    <link href="https://www.yangchenyu.com/design_pattern/"/>
-    <id>https://www.yangchenyu.com/design_pattern/</id>
+    <link href="https://www.yangchenyu.com/record/design_pattern/"/>
+    <id>https://www.yangchenyu.com/record/design_pattern/</id>
     <published>2021-06-21T07:16:12.000Z</published>
     <updated>2023-06-09T08:25:14.004Z</updated>
     
@@ -457,8 +457,8 @@
   
   <entry>
     <title>VS Code 插件开发指北 (二)</title>
-    <link href="https://www.yangchenyu.com/vscode_extension_two/"/>
-    <id>https://www.yangchenyu.com/vscode_extension_two/</id>
+    <link href="https://www.yangchenyu.com/record/vscode_extension_two/"/>
+    <id>https://www.yangchenyu.com/record/vscode_extension_two/</id>
     <published>2021-06-17T12:19:04.000Z</published>
     <updated>2023-06-09T08:25:14.009Z</updated>
     
@@ -478,8 +478,8 @@
   
   <entry>
     <title>VS Code 插件开发指北 (一)</title>
-    <link href="https://www.yangchenyu.com/vscode_extension/"/>
-    <id>https://www.yangchenyu.com/vscode_extension/</id>
+    <link href="https://www.yangchenyu.com/record/vscode_extension/"/>
+    <id>https://www.yangchenyu.com/record/vscode_extension/</id>
     <published>2021-06-12T15:20:59.000Z</published>
     <updated>2023-06-09T08:25:14.009Z</updated>
     
