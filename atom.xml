@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.yangchenyu.com/"/>
-  <updated>2024-08-12T06:11:11.986Z</updated>
+  <updated>2024-08-12T10:37:45.882Z</updated>
   <id>https://www.yangchenyu.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单一仓库 Monorepo</title>
+    <link href="https://www.yangchenyu.com/scaffolding/monorepo/"/>
+    <id>https://www.yangchenyu.com/scaffolding/monorepo/</id>
+    <published>2024-01-21T05:35:12.000Z</published>
+    <updated>2024-08-12T10:37:45.882Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Monorepo&quot;&gt;&lt;a href=&quot;#Monorepo&quot; class=&quot;headerlink&quot; title=&quot;Monorepo&quot;&gt;&lt;/a&gt;Monorepo&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Monorepo
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.com/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.com/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>脚手架的开发（三）</title>
@@ -465,27 +493,6 @@
     <summary type="html">
     
       &lt;p&gt;接着上面的继续介绍一些常用的 VS Code 插件的配置和 API。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="记录类" scheme="https://www.yangchenyu.com/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
-    
-    
-      <category term="vscode" scheme="https://www.yangchenyu.com/tags/vscode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VS Code 插件开发指北 (一)</title>
-    <link href="https://www.yangchenyu.com/record/vscode_extension/"/>
-    <id>https://www.yangchenyu.com/record/vscode_extension/</id>
-    <published>2021-06-12T15:20:59.000Z</published>
-    <updated>2023-06-09T08:25:14.009Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近闲来无事，给公司框架做了开发代码片段提示和一些常用工具整合的插，在这里记录一下踩过的坑和一些常用的基本功能示例。&lt;/p&gt;
     
     </summary>
     
