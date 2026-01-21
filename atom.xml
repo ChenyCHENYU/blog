@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  <subtitle>CHENY的小站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.yangchenyu.top/"/>
+  <updated>2026-01-21T15:16:41.112Z</updated>
+  <id>https://www.yangchenyu.top/</id>
+  
+  <author>
+    <name>CHENY</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单一仓库 Monorepo</title>
+    <link href="https://www.yangchenyu.top/scaffolding/monorepo/"/>
+    <id>https://www.yangchenyu.top/scaffolding/monorepo/</id>
+    <published>2024-01-21T05:35:12.000Z</published>
+    <updated>2026-01-21T15:16:41.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Monorepo&quot;&gt;&lt;a href=&quot;#Monorepo&quot; class=&quot;headerlink&quot; title=&quot;Monorepo&quot;&gt;&lt;/a&gt;Monorepo&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Monorepo
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.top/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.top/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>脚手架的开发（三）</title>
+    <link href="https://www.yangchenyu.top/scaffolding/cli_ui/"/>
+    <id>https://www.yangchenyu.top/scaffolding/cli_ui/</id>
+    <published>2023-06-16T09:11:36.000Z</published>
+    <updated>2026-01-21T15:16:41.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何实现命令行-UI-显示？&quot;&gt;&lt;a href=&quot;#如何实现命令行-UI-显示？&quot; class=&quot;headerlink&quot; title=&quot;如何实现命令行 UI 显示？&quot;&gt;&lt;/a&gt;如何实现命令行 UI 显示？&lt;/h1&gt;&lt;h2 id=&quot;命令行渲染标准&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.top/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.top/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>脚手架的开发（二）</title>
+    <link href="https://www.yangchenyu.top/scaffolding/cli_setup,/"/>
+    <id>https://www.yangchenyu.top/scaffolding/cli_setup,/</id>
+    <published>2023-03-22T07:21:41.000Z</published>
+    <updated>2026-01-21T15:16:41.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;框架搭建脚手架&quot;&gt;&lt;a href=&quot;#框架搭建脚手架&quot; class=&quot;headerlink&quot; title=&quot;框架搭建脚手架&quot;&gt;&lt;/a&gt;框架搭建脚手架&lt;/h2&gt;&lt;h3 id=&quot;为什么需要脚手架框架&quot;&gt;&lt;a href=&quot;#为什么需要脚手架框架&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.top/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.top/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>脚手架的开发（一）</title>
+    <link href="https://www.yangchenyu.top/scaffolding/cli_create/"/>
+    <id>https://www.yangchenyu.top/scaffolding/cli_create/</id>
+    <published>2023-03-22T02:11:39.000Z</published>
+    <updated>2026-01-21T15:16:41.111Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何开发脚手架？&quot;&gt;&lt;a href=&quot;#如何开发脚手架？&quot; class=&quot;headerlink&quot; title=&quot;如何开发脚手架？&quot;&gt;&lt;/a&gt;如何开发脚手架？&lt;/h1&gt;&lt;h2 id=&quot;脚手架开发流程&quot;&gt;&lt;a href=&quot;#脚手架开发流程&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.top/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.top/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>了解前端脚手架</title>
+    <link href="https://www.yangchenyu.top/scaffolding/cli/"/>
+    <id>https://www.yangchenyu.top/scaffolding/cli/</id>
+    <published>2023-03-21T15:50:39.000Z</published>
+    <updated>2026-01-21T15:16:41.111Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;了解什么是-脚手架（Cli）&quot;&gt;&lt;a href=&quot;#了解什么是-脚手架（Cli）&quot; class=&quot;headerlink&quot; title=&quot;了解什么是 脚手架（Cli）&quot;&gt;&lt;/a&gt;了解什么是 脚手架（Cli）&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Bash 和
+        
+      
+    
+    </summary>
+    
+    
+      <category term="脚手架" scheme="https://www.yangchenyu.top/categories/%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+    
+      <category term="前端脚手架" scheme="https://www.yangchenyu.top/tags/%E5%89%8D%E7%AB%AF%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多媒体工具</title>
+    <link href="https://www.yangchenyu.top/share/media/"/>
+    <id>https://www.yangchenyu.top/share/media/</id>
+    <published>2023-03-20T01:12:36.000Z</published>
+    <updated>2026-01-21T15:16:41.113Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;当年做运营推广时候，使用过的一些工具集。&lt;/p&gt;
+&lt;h2 id=&quot;图文排版编辑器&quot;&gt;&lt;a href=&quot;#图文排版编辑器&quot; class=&quot;headerlink&quot; title=&quot;图文排版编辑器&quot;&gt;&lt;/a&gt;图文排版编辑器&lt;/h2&gt;&lt;p&gt;i 排版：&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享类" scheme="https://www.yangchenyu.top/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+      <category term="media" scheme="https://www.yangchenyu.top/tags/media/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>程序员作息表</title>
+    <link href="https://www.yangchenyu.top/share/schedule/"/>
+    <id>https://www.yangchenyu.top/share/schedule/</id>
+    <published>2023-03-20T00:52:08.000Z</published>
+    <updated>2026-01-21T15:16:41.113Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;程序员关注自身健康,首先从作息时间开始。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;任何试图更改生物钟的行为，都将给身体留下莫名其妙的疾病,辛苦的程序员们,给自己健康一个保障,做一个有益于健康的作息时间表。&lt;/p&gt;
+&lt;p&gt;8.30 ~
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享类" scheme="https://www.yangchenyu.top/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+      <category term="schedule" scheme="https://www.yangchenyu.top/tags/schedule/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于 Vue3、Typescript、Vite3、Element-plus 构建通用后台</title>
+    <link href="https://www.yangchenyu.top/creation/admin_template/"/>
+    <id>https://www.yangchenyu.top/creation/admin_template/</id>
+    <published>2022-11-15T02:16:09.000Z</published>
+    <updated>2026-01-21T15:16:41.095Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;忙里偷闲，凑空用 vite3 + vue3 + element-plus + ts 撸个后台模板。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;项目地址 ~&amp;gt; &lt;a href=&quot;//github.com/ChenyCHENYU/Robot-Admin&quot;&gt;Github&lt;/a&gt;， &lt;a href=&quot;//gitee.com/ycyplus163/robot-admin&quot;&gt;Gitee&lt;/a&gt;， &lt;a href=&quot;//www.tzagileteam.com/&quot;&gt;文档&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="创作类" scheme="https://www.yangchenyu.top/categories/%E5%88%9B%E4%BD%9C%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.yangchenyu.top/tags/vue/"/>
+    
+      <category term="vuex" scheme="https://www.yangchenyu.top/tags/vuex/"/>
+    
+      <category term="vue-route" scheme="https://www.yangchenyu.top/tags/vue-route/"/>
+    
+      <category term="elemelt-ui" scheme="https://www.yangchenyu.top/tags/elemelt-ui/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>瀑布流使用虚拟列表性能优化</title>
+    <link href="https://www.yangchenyu.top/record/waterfalls_and_visiblelist/"/>
+    <id>https://www.yangchenyu.top/record/waterfalls_and_visiblelist/</id>
+    <published>2022-11-14T04:05:46.000Z</published>
+    <updated>2026-01-21T15:16:41.108Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;瀑布流算是比较常见的布局了，一个般常见纵向瀑布流的交互，当我们滚动到底的时候加载下一页的数据追加到上去。因为一次加载的数据量不是很多，页面操作是也不会有太大的性能消耗。但是如果当你一直往下滚动加载，加载几十页的时候，就会开始感觉不那么流畅的，这是因为虽然每次操作的很少，但是页面的 DOM 越来越多，内存占用也会增大，而且发生重排重绘时候浏览器计算量耗时也会增大，就导致了慢慢不能那么流畅了。这个时候可以选择结合虚拟列表方式使用，虚拟列表本身就是用来解决超长列表时的处理方案。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="JavaScript" scheme="https://www.yangchenyu.top/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pjax 下动态加载插件方案</title>
+    <link href="https://www.yangchenyu.top/record/pjax_dynamic_plugins/"/>
+    <id>https://www.yangchenyu.top/record/pjax_dynamic_plugins/</id>
+    <published>2022-09-28T08:35:09.000Z</published>
+    <updated>2026-01-21T15:16:41.105Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在纯静态网站里，有时候会动态更新某个区域往会选择 Pjax（swup、barba.js）去处理，他们都是使用 ajax 和 pushState 通过真正的永久链接，页面标题和后退按钮提供快速浏览体验。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="Pjax" scheme="https://www.yangchenyu.top/tags/Pjax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目上线部署发布流程</title>
+    <link href="https://www.yangchenyu.top/manage/deployment/"/>
+    <id>https://www.yangchenyu.top/manage/deployment/</id>
+    <published>2022-03-20T02:16:12.000Z</published>
+    <updated>2026-01-21T15:16:41.096Z</updated>
+    
+    <summary type="html">
+    
+      项目管理、部门管理、技术管理
+    
+    </summary>
+    
+    
+      <category term="管理类" scheme="https://www.yangchenyu.top/categories/%E7%AE%A1%E7%90%86%E7%B1%BB/"/>
+    
+    
+      <category term="技术管理" scheme="https://www.yangchenyu.top/tags/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于重写评论插件这件事</title>
+    <link href="https://www.yangchenyu.top/record/cloudbase_comment_two/"/>
+    <id>https://www.yangchenyu.top/record/cloudbase_comment_two/</id>
+    <published>2022-02-11T02:28:39.000Z</published>
+    <updated>2026-01-21T15:16:41.100Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因为以前使用的评论插件存在很多 bug 和漏洞，但是也没啥人用，一直没有去修改，最近空闲时间比较多，所以准备对之前插件进行重构一番。原评论插件是使用原生 JS 编写 WebComponents 组件，感觉结构维护起来挺费力的(自己太菜)，决定使用 Vue3 构建 WebComponents 。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="node" scheme="https://www.yangchenyu.top/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Vue3 构建 Web Components</title>
+    <link href="https://www.yangchenyu.top/record/vue_web_components/"/>
+    <id>https://www.yangchenyu.top/record/vue_web_components/</id>
+    <published>2021-11-21T02:17:09.000Z</published>
+    <updated>2026-01-21T15:16:41.108Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有时候想写一个无关框架组件，又不想用原生或者 Jquery 那套去写，而且还要避免样式冲突，用 Web Components 去做刚觉就挺合适的。但是现在 Web Components 使用起来还是不够灵活，很多地方还是不太方便的，如果能和 MVVM 搭配使用就好了。早在之前 Angular 就支持将组件构建成 Web Components，&lt;strong&gt;Vue3 3.2+&lt;/strong&gt; 开始终于支持将组建构建成 Web Components 了。正好最近想重构下评论插件，于是上手试了试。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vue" scheme="https://www.yangchenyu.top/tags/vue/"/>
+    
+      <category term="WebComponents" scheme="https://www.yangchenyu.top/tags/WebComponents/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>朱雀云丹 · 风采铃</title>
+    <link href="https://www.yangchenyu.top/share/video_yztx/"/>
+    <id>https://www.yangchenyu.top/share/video_yztx/</id>
+    <published>2021-11-01T10:37:08.000Z</published>
+    <updated>2026-01-21T15:16:41.114Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一壶生死曾入喉，醉梦黄泉九千宵。转眼形骸具付灭，悲欢两散天涯老。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="分享类" scheme="https://www.yangchenyu.top/categories/%E5%88%86%E4%BA%AB%E7%B1%BB/"/>
+    
+    
+      <category term="video" scheme="https://www.yangchenyu.top/tags/video/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数组转树形结构</title>
+    <link href="https://www.yangchenyu.top/record/array_to_tree/"/>
+    <id>https://www.yangchenyu.top/record/array_to_tree/</id>
+    <published>2021-10-28T12:08:29.000Z</published>
+    <updated>2026-01-21T15:16:41.099Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;数组转树形结构这种情况还是很常见的，有时候后端就只给你一个数组，需要前端自己处理。一般情况下一个递归就搞定了，但是数据量很多的时候就有点 hot 不住了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="JavaScript" scheme="https://www.yangchenyu.top/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用 GitHub Actions + Github Pages 实现博客自动部署</title>
+    <link href="https://www.yangchenyu.top/record/github_action/"/>
+    <id>https://www.yangchenyu.top/record/github_action/</id>
+    <published>2021-09-26T01:08:34.000Z</published>
+    <updated>2026-01-21T15:16:41.103Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看看官方对GitHub Actions的介绍: GitHub Actions 帮助您自动完成软件开发周期内的任务。 GitHub Actions 是事件驱动的，意味着您可以在指定事件发生后运行一系列命令。 例如，每次有人为仓库创建拉取请求时，您都可以自动运行命令来执行软件测试脚本。&lt;/p&gt;
+&lt;p&gt;简单的说就是，GitHub 把持续集成系列操作步骤叫做 actions。比如抓取代码、运行测试、登录远程服务器，发布到第三方服务等等。可以看看官方的介绍，对&lt;a href=&quot;https://docs.github.com/cn/actions/learn-github-actions/introduction-to-github-actions&quot;&gt;GitHub Actions&lt;/a&gt;快速了解&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="github" scheme="https://www.yangchenyu.top/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编码七宗罪与技术债务</title>
+    <link href="https://www.yangchenyu.top/record/debt/"/>
+    <id>https://www.yangchenyu.top/record/debt/</id>
+    <published>2021-08-31T01:53:20.000Z</published>
+    <updated>2026-01-21T15:16:41.101Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;代码不规范，伙伴泪汪汪，请务必要求自己遵守开发规范，莫要误人误己！&lt;/p&gt;
+&lt;h2 id=&quot;编码七宗罪&quot;&gt;&lt;a href=&quot;#编码七宗罪&quot; class=&quot;headerlink&quot; title=&quot;编码七宗罪&quot;&gt;&lt;/a&gt;编码七宗罪&lt;/h2&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="技术债务" scheme="https://www.yangchenyu.top/tags/%E6%8A%80%E6%9C%AF%E5%80%BA%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>打造自己的Vue组件文档生成工具</title>
+    <link href="https://www.yangchenyu.top/reprinted/generate_vue_docs/"/>
+    <id>https://www.yangchenyu.top/reprinted/generate_vue_docs/</id>
+    <published>2021-07-29T02:44:00.000Z</published>
+    <updated>2026-01-21T15:16:41.110Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;程序员最讨厌的两件事情，第一种是写文档，另一种是别人没有写文档。有没有直接根据 vue 组件生成文档的呢？当然是有的的。但第三方使用起来不一定能和现有项目结合使用，往往需要额外的注释用来标记提取信息。
+    
+    </summary>
+    
+    
+      <category term="转载" scheme="https://www.yangchenyu.top/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+      <category term="vue" scheme="https://www.yangchenyu.top/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端的设计模式</title>
+    <link href="https://www.yangchenyu.top/record/design_pattern/"/>
+    <id>https://www.yangchenyu.top/record/design_pattern/</id>
+    <published>2021-06-21T07:16:12.000Z</published>
+    <updated>2026-01-21T15:16:41.101Z</updated>
+    
+    <summary type="html">
+    
+      前端设计模式
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="技术管理" scheme="https://www.yangchenyu.top/tags/%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VS Code 插件开发指北 (二)</title>
+    <link href="https://www.yangchenyu.top/record/vscode_extension_two/"/>
+    <id>https://www.yangchenyu.top/record/vscode_extension_two/</id>
+    <published>2021-06-17T12:19:04.000Z</published>
+    <updated>2026-01-21T15:16:41.106Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接着上面的继续介绍一些常用的 VS Code 插件的配置和 API。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="记录类" scheme="https://www.yangchenyu.top/categories/%E8%AE%B0%E5%BD%95%E7%B1%BB/"/>
+    
+    
+      <category term="vscode" scheme="https://www.yangchenyu.top/tags/vscode/"/>
+    
+  </entry>
+  
+</feed>
